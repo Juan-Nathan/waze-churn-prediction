@@ -38,7 +38,7 @@ This project uses data analytics and machine learning in Python to predict month
  ## Project Breakdown
  1. **`01_waze_eda`** : Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends in it.
  2. **`02_waze_further_eda_visualization`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
- 3. **`03_waze_statistical_analysis`**: Statistical analysis (hypothesis testing and confidence intervals), to draw more insights from the data.
+ 3. **`03_waze_statistical_analysis`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
  4. **`04_waze_logistic_regression`**: Binomial logistic regression modeling.
  5. **`05_waze_tree_models`**: Tree-based modeling (Random Forest and XGBoost).
 
