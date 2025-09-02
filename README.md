@@ -48,11 +48,11 @@ Two models delivered the best performance in predicting churn:
 
 - **Logistic Regression**  
   Built with feature engineering, Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance, and Elastic Net regularization.  
-  *Performance*: 74% recall, AUC of 0.7, indicating decent discriminative ability while effectively capturing churned users.
+  *Performance*: 74% recall and AUC of 0.7, indicating decent discriminative ability while effectively capturing churned users.
 
 - **XGBoost**  
   Developed with feature engineering and hyperparameter tuning via cross-validation.  
-  *Performance*: 83% recall, AUC of 0.69, excelling at capturing churned users while maintaining acceptable discriminative ability.
+  *Performance*: 83% recall and AUC of 0.69, excelling at capturing churned users while maintaining acceptable discriminative ability.
 
 ## How to Run
 
