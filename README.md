@@ -44,7 +44,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
  2. **`02_waze_further_eda_visualization`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_waze_statistical_analysis`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
  4. **`04_waze_logistic_regression`**: Binomial logistic regression modeling.
- 5. **`05_waze_tree_models`**: Tree-based modeling (Random Forest and XGBoost).
+ 5. **`05_waze_tree_models`**: Tree-based modeling (random forest and XGBoost).
 
 ## Modeling Results
 
