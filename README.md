@@ -8,21 +8,21 @@ This project uses data analytics and machine learning in Python to predict month
 - **Source**: Synthetic dataset created in partnership with Waze
 - **Features**:
 
-| Column name              | Description                                                                                     |
-|------------------------- |-------------------------------------------------------------------------------------------------|
-| ID                       | A sequential numbered index                                                                     |
-| label                    | Binary target variable ("retained" vs "churned") indicating if a user churned during the month  |
-| sessions                 | Number of times a user opened the app during the month                                          |
-| drives                   | Number of times a user drove at least 1 km during the month                                     |
-| device                   | Type of device a user starts a session with                                                     |
-| total_sessions           | Estimated total number of sessions since a user onboarded                                       |
-| n_days_after_onboarding  | Number of days since a user signed up for the app                                               |
-| total_navigations_fav1   | Total navigations since onboarding to the user’s favorite place                                 |
-| total_navigations_fav2   | Total navigations since onboarding to the user’s second favorite place                          |
-| driven_km_drives         | Total kilometers driven during the month                                                        |
-| duration_minutes_drives  | Total driving duration in minutes during the month                                              |
-| activity_days            | Number of days the user opened the app during the month                                         |
-| driving_days             | Number of days the user drove (at least 1 km) during the month                                  |
+| Column name                | Description                                                                                     |
+|-------------------------   |-------------------------------------------------------------------------------------------------|
+| `ID`                       | A sequential numbered index                                                                     |
+| `label`                    | Binary target variable ("retained" vs "churned") indicating if a user churned during the month  |
+| `sessions`                 | Number of times a user opened the app during the month                                          |
+| `drives`                   | Number of times a user drove at least 1 km during the month                                     |
+| `device`                   | Type of device a user starts a session with                                                     |
+| `total_sessions`           | Estimated total number of sessions since a user onboarded                                       |
+| `n_days_after_onboarding`  | Number of days since a user signed up for the app                                               |
+| `total_navigations_fav1`   | Total navigations since onboarding to the user’s favorite place                                 |
+| `total_navigations_fav2`   | Total navigations since onboarding to the user’s second favorite place                          |
+| `driven_km_drives`         | Total kilometers driven during the month                                                        |
+| `duration_minutes_drives`  | Total driving duration in minutes during the month                                              |
+| `activity_days`            | Number of days the user opened the app during the month                                         |
+| `driving_days`             | Number of days the user drove (at least 1 km) during the month                                  |
 
 - **Observations**: 14999
 - **Class Distribution**:
