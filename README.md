@@ -39,7 +39,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 - **Environment**: Jupyter Notebook
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `sklearn`, `statsmodels`, `imblearn`, `xgboost`
   
- ## Project Breakdown
+ ## Project Structure
  1. **`01_waze_eda`** : Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends.
  2. **`02_waze_further_eda_visualization`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_waze_statistical_analysis`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
