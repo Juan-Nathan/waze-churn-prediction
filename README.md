@@ -10,6 +10,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 
 - `waze_dataset.csv`
 - **Source**: Synthetic dataset created in partnership with Waze
+- **Observations**: 14999
 - **Features**:
 
 | Column name                | Description                                                                                     |
@@ -28,7 +29,6 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 | `activity_days`            | Number of days the user opened the app during the month                                         |
 | `driving_days`             | Number of days the user drove (at least 1 km) during the month                                  |
 
-- **Observations**: 14999
 - **Class Distribution**:
   - Churned: 17.8%
   - Retained: 82.2%
