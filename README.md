@@ -13,7 +13,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 - **Observations**: 14,999
 - **Variables**:
 
-| Column name                | Description                                                                                         |
+| Column Name                | Description                                                                                         |
 |-------------------------   |-----------------------------------------------------------------------------------------------------|
 | `ID`                       | A sequential numbered index                                                                         |
 | `label`                    | Binary **target** variable ("retained" vs "churned") indicating if a user churned during the month  |
