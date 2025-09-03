@@ -40,7 +40,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `sklearn`, `statsmodels`, `imblearn`, `xgboost`
   
  ## Project Structure
- 1. **`01_waze_eda`** : Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends.
+ 1. **`01_waze_eda`**: Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends.
  2. **`02_waze_further_eda_visualization`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_waze_statistical_analysis`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
  4. **`04_waze_logistic_regression`**: Binomial logistic regression modeling.
@@ -53,7 +53,6 @@ Two models delivered the best performance in predicting churn:
 - **Logistic Regression**  
   - Built with feature engineering, Elastic Net regularization, and Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance.  
   - **Performance**: 74% recall and AUC of 0.70, effectively identifying likely churners while providing fair discriminative ability.
-
 - **XGBoost**  
   - Developed with feature engineering and hyperparameter tuning via cross-validation.  
   - **Performance**: 83% recall and AUC of 0.69, excelling at capturing users at risk of churn while maintaining acceptable discriminative ability.
