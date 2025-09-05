@@ -40,6 +40,7 @@ These insights help Waze proactively engage at-risk users, optimize retention st
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `sklearn`, `statsmodels`, `imblearn`, `xgboost`
   
  ## Project Structure
+ 
  1. **`01_eda.ipynb`**: Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends.
  2. **`02_further_eda_visualization.ipynb`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_statistical_analysis.ipynb`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
