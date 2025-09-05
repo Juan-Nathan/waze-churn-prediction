@@ -30,8 +30,8 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
 | `driving_days`             | Number of days the user drove (at least 1 km) during the month                                      |
 
 - **Class Distribution**:
-  - Churned: 17.8%
-  - Retained: 82.2%
+  - Churned: 18%
+  - Retained: 82%
 
 ## Technologies Used
 
