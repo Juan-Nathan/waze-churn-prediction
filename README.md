@@ -4,7 +4,7 @@ This project applies advanced data analytics in Python to predict monthly **user
 
 An effective model will help determine which users are most likely to churn, why they churn, and when churn occurs.
 
-These insights help Waze proactively engage at-risk users, optimize retention strategies, and make data-driven decisions to improve user experience and business growth. 
+These insights can enable Waze to proactively engage at-risk users, optimize retention strategies, and make data-driven decisions to improve user experience and business growth. 
 
 ## Dataset
 
