@@ -41,7 +41,7 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
   
  ## Project Structure
  
- 1. **`01_eda.ipynb`**: Initial exploratory data analysis (EDA) to inspect the data and uncover usage patterns and churn trends.
+ 1. **`01_eda.ipynb`**: Initial exploratory data analysis (EDA) to examine the data and uncover usage patterns and churn trends.
  2. **`02_further_eda_visualization.ipynb`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_statistical_analysis.ipynb`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
  4. **`04_logistic_regression.ipynb`**: Binomial logistic regression modeling.
