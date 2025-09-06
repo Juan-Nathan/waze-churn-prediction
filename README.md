@@ -39,7 +39,7 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
 - **Environment**: Jupyter Notebook
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `sklearn`, `statsmodels`, `imblearn`, `xgboost`
   
- ## Project Structure
+## Project Structure
  
  1. **`01_eda.ipynb`**: Initial exploratory data analysis (EDA) to examine the data and uncover usage patterns and churn trends.
  2. **`02_further_eda_visualization.ipynb`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
