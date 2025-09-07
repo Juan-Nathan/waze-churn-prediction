@@ -45,14 +45,14 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
  2. **`02_further_eda_visualization.ipynb`**: Further EDA with visualizations to gain a deeper understanding of the story that the data tells.
  3. **`03_statistical_analysis.ipynb`**: Statistical analysis (hypothesis testing and confidence intervals) to draw more insights from the data.
  4. **`04_logistic_regression.ipynb`**: Binomial logistic regression modeling, including data preprocessing and multicollinearity testing using the Variance Inflation Factor.
- 5. **`05_tree_models.ipynb`**: Tree-based modeling (random forest and XGBoost), including data preprocessing.
+ 5. **`05_tree_models.ipynb`**: Tree-based modeling (Random Forest and XGBoost), including data preprocessing.
 
 ## Modeling Results
 
 Two models delivered the best performance in predicting churn:
 
 - **Logistic Regression**  
-  - Developed with **feature engineering**, **Elastic Net regularization**, and **Synthetic Minority Oversampling Technique (SMOTE)** to address class imbalance.  
+  - Developed with **feature engineering** and **Elastic Net regularization** on **Synthetic Minority Oversampling Technique (SMOTE)**-balanced data.
   - **Performance**: 74% recall and AUC of 0.70, effectively identifying likely churners while providing fair discriminative ability.
 - **XGBoost**  
   - Built with **feature engineering** and **hyperparameter tuning** via cross-validation.  
