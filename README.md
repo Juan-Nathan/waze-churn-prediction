@@ -52,10 +52,10 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
 Two models delivered the best performance in predicting churn:
 
 - **Logistic Regression**  
-  - Built with feature engineering, Elastic Net regularization, and Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance.  
+  - Developed with feature engineering, Elastic Net regularization, and Synthetic Minority Oversampling Technique (SMOTE) to address class imbalance.  
   - **Performance**: 74% recall and AUC of 0.70, effectively identifying likely churners while providing fair discriminative ability.
 - **XGBoost**  
-  - Developed with feature engineering and hyperparameter tuning via cross-validation.  
+  - Built with feature engineering and hyperparameter tuning via cross-validation.  
   - **Performance**: 83% recall and AUC of 0.69, excelling at capturing users at risk of churn while maintaining acceptable discriminative ability.
 
 ## How to Run
