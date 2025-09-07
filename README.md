@@ -37,7 +37,7 @@ These insights can enable Waze to proactively engage at-risk users, optimize ret
 
 - **Language**: Python
 - **Environment**: Jupyter Notebook
-- **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `sklearn`, `statsmodels`, `imblearn`, `xgboost`
+- **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`, `sklearn`, `imblearn`, `xgboost`
   
 ## Project Structure
  
