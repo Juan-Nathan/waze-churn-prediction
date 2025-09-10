@@ -1,4 +1,4 @@
-# 🚗 Waze User Churn Prediction using App Usage Data
+# 🚗 Waze User Churn Prediction
 
 This project applies advanced data analytics in Python to predict monthly **user churn** in the Waze application using a synthetic dataset that simulates real-world application usage and user behavior. Churn measures the number of users who either uninstalled or stopped using the Waze app.
 
